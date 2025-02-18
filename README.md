@@ -25,6 +25,3 @@
 
 您可以在仓库的[主页](https://github.com/Akimizu11/Writing-Resources-Exercises)查看更多信息。
 
----
-
-请将此内容复制到[此页面](https://github.com/Akimizu11/Writing-Resources-Exercises/new/main?filename=README.md)中。
